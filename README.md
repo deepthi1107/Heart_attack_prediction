@@ -28,4 +28,4 @@ Data Mining Process:
 
 Project Conclusion:
 
-Done EDA on the dataset and used Logistic Regressor to train the data. predicted the output on new data, found model fits well on the dataset.   
+Done EDA on the dataset and used ML algorithm to train the data. predicted the output on new data, found model fits well on the dataset.   
